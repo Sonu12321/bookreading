@@ -1,0 +1,15 @@
+{
+  "name": "bookreading",
+  "version": "1.0.0",
+  "description": "book reader in next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next start"
+  },
+  "keywords": [
+    "next.js",
+    "js"
+  ],
+  "author": "sonu santhosh",
+  "license": "ISC"
+}
